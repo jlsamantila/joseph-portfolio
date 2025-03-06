@@ -19,11 +19,17 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    
     <!-- Styles -->
     <link rel="stylesheet" href="assets/css/style.css">
     
     <!-- Theme Color -->
     <meta name="theme-color" content="#0f172a">
+    
+    <!-- Scripts -->
+    <script src="assets/js/particles.min.js"></script>
 </head>
 <body>
     <header class="header">
